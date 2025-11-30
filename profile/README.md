@@ -6,4 +6,4 @@ We decided to leave all of its development materials on this repository. Please 
 
 You might be able to find some useful code / development ideas in the repository. Some of the projects I maintain were very likely trashily written, particularly in terms of hardcode.
 
-The development period was the happiest of my life so far; thank you so much [@justwei](https://github.com/xxxijustwei) and to my ex-boss.
+For our team, the time we spent developing this project remains one of our most treasured memories; we would like to express our heartfelt thanks to [@justwei](https://github.com/xxxijustwei) , [@kirraObj](https://github.com/CziSKY), and our ex-boss ([樱花](https://github.com/YCSakura)).
